@@ -587,3 +587,15 @@
         width: 100px;
     }
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+#service-section {
+    padding-top: 100px;
+}
+
+#services-section {
+    padding-top: 100px;
+}
